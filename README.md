@@ -16,6 +16,6 @@
 - Run `npm start`.
 # muse -->
 
-## <Muse>
+## Muse
 
-## Music streaming app for everyone, you can access and play songs, albums for free
+# Music streaming app for everyone, you can access and play songs, albums for free
