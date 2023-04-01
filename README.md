@@ -1,4 +1,4 @@
-# Melon Contest Blueprint
+<!-- # Melon Contest Blueprint
 
 ## How to run?
 
@@ -14,4 +14,8 @@
 
 - Run `npm run build`.
 - Run `npm start`.
-# muse
+# muse -->
+
+#Muse
+
+## Music streaming app for everyone, you can access and play songs, albums for free
