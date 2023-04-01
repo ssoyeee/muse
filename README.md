@@ -13,9 +13,8 @@
 ## How to deploy?
 
 - Run `npm run build`.
-- Run `npm start`.
-# muse -->
+- Run `npm start`. -->
 
-## Muse
+# Muse
 
-# Music streaming app for everyone, you can access and play songs, albums for free
+## Music streaming app for everyone, you can access and play songs, albums for free
